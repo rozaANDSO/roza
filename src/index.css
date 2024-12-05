@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  font-family: "Montserrat", sans-serif;
+}
+i{
+  font-style: italic;
+  font-size: 1.5em;
+  margin-right: 0.5em;
+  background-color: black !important;
+  font-weight: bold;
+  color: #ff6b22;
+  cursor: pointer;
+  transition: color 0.3s;
+  &:hover{
+    color: #ff9f43;
+  }
+
+}
