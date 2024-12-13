@@ -11,4 +11,8 @@ export const project=[
         description:"A book store website built using React, Redux, and Next.js. Users can browse products, add items to the cart, and checkout.",
     
     },
+    {
+        title:"ludo game",
+        link:""
+    }
 ]
