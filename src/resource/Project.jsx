@@ -13,7 +13,7 @@ export const project=[
     },
     {
         title:"ludo game",
-        link:"https://ludo-flame.vercel.app/"
+        link:"https://ludo-flame.vercel.app/",
         description:" ludu mern stack game built using react ,typescript, nodejs, mongodb",
     }
 ]
