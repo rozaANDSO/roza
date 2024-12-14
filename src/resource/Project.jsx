@@ -1,7 +1,7 @@
 export const project=[
     {
         title:"E-commerce Website",
-        link:"https://eccomerce-website.vercel.app/",
+        link:"https://eccomerce-website-o2rt-b2x6oi6l1-rozas-projects-2ede3e84.vercel.app/",
         description:"An e-commerce website built using React, Redux, and Tailwind CSS. Users can browse products, add items to the cart, and checkout.",
     
     },
