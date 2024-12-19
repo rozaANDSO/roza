@@ -24,18 +24,18 @@ const About = () => {
     <div>
       <SectionTitle title="About Me" />
       <div className="flex">
-        <div className="h-[90vh] w-1/2 sm:w-full">
+        <div className="h-[80vh] w-1/2 sm:w-full">
           <lottie-player
             src="https://lottie.host/dde0ceac-f05d-481a-be2b-8a7a146fb6c5/95QGAKVeDV.json"
             background="##FFFFFF"
             speed="1"
           ></lottie-player>
         </div>
-        <div className="flex flex-col gap-5 w-1/2 sm:w-full">
-          <h1 className="text-white text-4xl font-semibold">
+        <div className="flex flex-col gap-5 w-1/2">
+          <h1 className="text-black text-4xl font-semibold">
             Hi, I'm Roza Belay Tiruneh.
           </h1>
-          <p className="text-white text-lg ">
+          <p className="text-black text-lg ">
             I'm a passionate and dedicated electrical and computer engineer with
             a keen eye for detail. I have a strong foundation in programming and
             a proven track record in delivering high-quality solutions.
