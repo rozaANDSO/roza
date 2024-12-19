@@ -15,7 +15,7 @@ const Home = () => {
     <>
       <div>
         <Header />
-        <div className="px-40 ">
+        <div className="px-20 ">
           <Intro />
           <About />
           <Expricence />
