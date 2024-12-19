@@ -6,7 +6,7 @@ const Courses = () => {
   return (
     <>
       <div className="
-      flex flex-col gap-10 items-center
+      flex flex-col gap-10 items-center sm:w-full
       ">
         <SectionTitle title="Course" />
         <div className="flex flex-wrap gap-10 mb-5">
