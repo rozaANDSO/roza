@@ -24,7 +24,7 @@ const Contact = () => {
           <h1>Email: {user.email}</h1>
           <h1>Phone: {user.phone}</h1>
         </div>
-        <div className="h-[500px] mb-3">
+        <div className="h-[300px] mb-3">
           <lottie-player
             src="https://lottie.host/e0e86451-b9d0-4247-88a5-bf57cb861b14/ijgCkAIUbh.json"
             speed="1"
