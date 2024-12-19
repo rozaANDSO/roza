@@ -15,7 +15,7 @@ const Contact = () => {
     <div className="mt-10 sm:w-full">
       <SectionTitle title="Hello" />
       <div className="flex sm:flex-col items-center">
-        <div className="flex  flex-col gap-1 text-yellow-50">
+        <div className="flex  flex-col gap-1 text-black">
           <h1>Name: {user.name}</h1>
           <h1>Address: {user.address}</h1>
           <h1>City: {user.city}</h1>
