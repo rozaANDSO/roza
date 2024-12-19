@@ -40,7 +40,7 @@ const About = () => {
             a keen eye for detail. I have a strong foundation in programming and
             a proven track record in delivering high-quality solutions.
           </p>
-          <p className="text-white text-lg">
+          <p className="text-black text-lg">
             I am also a web developer with a strong background in HTML, CSS, and
             JavaScript react js in frontend development mode. and additional
             strong backendSkill express js, node js ,mongodb ,sql . I have
@@ -50,7 +50,7 @@ const About = () => {
         </div>
       </div>
       <div className="">
-        <h1 className="text-white text-2xl font-semibold">
+        <h1 className="text-black text-2xl font-semibold">
           Here are a few Technologies I have been working with recently.
         </h1>
         <div className="flex flex-wrap gap-10">
