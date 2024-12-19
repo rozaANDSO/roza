@@ -12,9 +12,9 @@ const Contact = () => {
     phone: "0922887221",
   };
   return (
-    <div className="mt-10 sm:w-full">
+    <div className="mt-10">
       <SectionTitle title="Hello" />
-      <div className="flex sm:flex-col items-center">
+      <div className="flex text-black items-center">
         <div className="flex  flex-col gap-2 text-black">
           <h1>Name: {user.name}</h1>
           <h1>Address: {user.address}</h1>
