@@ -11,12 +11,12 @@ const Project = () => {
         {project.map((item) => (
           <div
             className={`border border-tertiary p-5 hover:shadow-md cursor-pointer ${
-              selectedItem === item.id ? "bg-primary" : ""
+              selectedItem === item.id ? "bg-green" : ""
             }`}
             onClick={() => setSelectedItem(item.id)}
           >
-            <h1 className="text-tertiary font-semibold">{item.title}</h1>
-            <p className="text-white">{item.description}</p>
+            <h1 className="text-black font-semibold">{item.title}</h1>
+            <p className="text-black">{item.description}</p>
             <a href={item.link}>
                 <button className="bg-green-800 text-white py-2 px-5 rounded-md">
                   View Project
