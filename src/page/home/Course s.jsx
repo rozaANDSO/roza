@@ -6,7 +6,7 @@ const Courses = () => {
   return (
     <>
       <div className="
-      flex flex-col gap-10 items-center sm:w-full
+      flex flex-col gap-10 items-center 
       ">
         <SectionTitle title="Course" />
         <div className="flex flex-wrap gap-10 mb-5">
@@ -18,7 +18,7 @@ const Courses = () => {
           
               <div className=" gap-10">
                 <a className="gap-10" href={course.link}>
-                  <button className="text-white bg-green-800 px-10 py-2 rounded-md gap-4">
+                  <button className="text-black bg-green-800 px-10 py-2 rounded-md gap-4">
                     View Course
                   </button>
                 </a>
