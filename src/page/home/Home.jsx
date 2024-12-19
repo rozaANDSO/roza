@@ -15,7 +15,7 @@ const Home = () => {
     <>
       <div>
         <Header />
-        <div className="bg-primary px-40">
+        <div className="bg-primary px-40 sm:w-full">
           <Intro />
           <About />
           <Expricence />
