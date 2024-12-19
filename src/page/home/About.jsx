@@ -24,7 +24,7 @@ const About = () => {
     <div>
       <SectionTitle title="About Me" />
       <div className="flex">
-        <div className="h-[80vh] w-1/2">
+        <div className="h-[75vh] w-1/2">
           <lottie-player
             src="https://lottie.host/dde0ceac-f05d-481a-be2b-8a7a146fb6c5/95QGAKVeDV.json"
             background="##FFFFFF"
@@ -49,7 +49,7 @@ const About = () => {
           </p>
         </div>
       </div>
-      <div className="">
+      <div className="text-black">
         <h1 className="text-black text-2xl font-semibold">
           Here are a few Technologies I have been working with recently.
         </h1>
