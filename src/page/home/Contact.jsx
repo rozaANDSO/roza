@@ -12,7 +12,7 @@ const Contact = () => {
     phone: "0922887221",
   };
   return (
-    <div className="mt-10">
+    <div className="mt-10 sm:w-full">
       <SectionTitle title="Hello" />
       <div className="flex sm:flex-col items-center">
         <div className="flex  flex-col gap-1 text-yellow-50">
