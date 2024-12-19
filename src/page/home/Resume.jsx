@@ -12,7 +12,7 @@ const Resume = () => {
         fieldValue: "Software Engineer",
       },
       {
-        fieldName: "Address",
+        fieldName: "Address|",
         fieldValue: "Addis Ababa, Ethiopia",
       },
 
