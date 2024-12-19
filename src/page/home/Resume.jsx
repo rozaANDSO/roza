@@ -57,7 +57,6 @@ const Resume = () => {
             className="
             rounded-full
             object-cover
-            w-[100px]
             h-[140px]
             "
             alt="roza belay"
@@ -65,15 +64,15 @@ const Resume = () => {
           />
         </div>
         <div className="flex flex-col gap-10">
-          <h1 className="text-2xl font-semibold text-yellow-100">
+          <h1 className="text-2xl font-semibold text-black">
             {about.title}
           </h1>
-          <p className="text-yellow-50">{about.description}</p>
-          <h2 className="text-gray-500 text-4xl">Cover Letter:by </h2>
+          <p className="text-black">{about.description}</p>
+          <h2 className="text-black text-4xl">Cover Letter:by </h2>
           <h1 className="text-5xl text-red-900">
             {about.info[0].fieldName}: {about.info[0].fieldValue}
           </h1>
-          <p className="text-white">
+          <p className="text-black">
             I am writing a letter of interest in regards to the position in your
             company. Your company is known for its innovation, professionalism,
             and results-driven marketing strategy, which is why I am certain I
