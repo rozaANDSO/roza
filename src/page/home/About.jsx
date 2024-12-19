@@ -24,7 +24,7 @@ const About = () => {
     <div>
       <SectionTitle title="About Me" />
       <div className="flex">
-        <div className="h-[80vh] w-1/2 sm:w-full">
+        <div className="h-[80vh] w-1/2">
           <lottie-player
             src="https://lottie.host/dde0ceac-f05d-481a-be2b-8a7a146fb6c5/95QGAKVeDV.json"
             background="##FFFFFF"
